@@ -13,3 +13,5 @@ been focused on understanding human disease through transcriptomics. I have deve
 using statistics and generative AI to uncover temporal gene regulatory networks important in the transition
 of single-cell towards new states. My aim is to continue using machine learning on biologic data with
 perturbation, temporal, or spatial information, specifically in single-cells and in transciptomic contexts.
+
+When I'm not doing research I enjoy rock climbing, sailing, snowboarding, traveling, and playing guitar. 
