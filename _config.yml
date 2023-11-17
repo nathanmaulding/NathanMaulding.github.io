@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Maulding"
-  avatar           : "NateMaulding.png"
+  avatar           : "NateMaulding.jpeg"
   bio              : "PhD in Biomolecular Engineering and Bioinformatics"
-  location         : "Location"
+  location         : "Santa Cruz, CA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Nathan+Maulding"
   googlescholar    : "https://scholar.google.com/citations?user=BwT_L1cAAAAJ&hl=en&oi=ao"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
