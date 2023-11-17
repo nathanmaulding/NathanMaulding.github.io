@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download File Here] (https://nathanmaulding.github.io/files/Nathan_Maulding_Resume_2023.pdf)
+[Download CV here](https://nathanmaulding.github.io/files/Nathan_Maulding_Resume_2023.pdf)
